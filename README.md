@@ -1,9 +1,3 @@
 ### Hi there 👋
 
-- 🎓 Master's in Business Analytics at Fordham Gabelli School of Business, Expected Dec 2021
-- 🎓 Bachelor's in Sociology and Data Science in Illinois Wesleyan University, May 2020
-- 🌱 I’m currently learning to code with R, Text Analytics, Machine Learning, Cloud Computing technics.
-- 📫 How to reach me: ylu204@fordham.edu, https://www.linkedin.com/in/call-me-ricardo/
-- 🤔 I’m looking for help with looking for internship in NYC or remote in 2021 fall
-- 💬 Ask me about Web Crawling, Data Mining, and Text Analytics
-- ⚡ Fun fact: I enjoy both coding by myself and storytelling in front of people around (You will be surprised by my passion then)
+Enthusiastic Data Analyst with over 3 years of expertise, specializing in Python, SQL, and AWS Redshift, complemented by a robust business acumen. Expert at designing and implementing ETL pipelines, managing data warehouses, and deriving actionable insights from complex datasets to propel decision-making. Demonstrated success in cross-team communication, optimizing business processes, and driving substantial growth.
